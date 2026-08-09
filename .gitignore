@@ -1,0 +1,26 @@
+# OS files
+.DS_Store
+Thumbs.db
+
+# Editor files
+*.swp
+*.swo
+*~
+.vscode/
+.idea/
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+
+# Node
+node_modules/
+
+# Archives
+*.zip
+*.tar.gz
+*.7z
+
+# Don't ignore payload zips in writeups
+!*/payloads/*.zip

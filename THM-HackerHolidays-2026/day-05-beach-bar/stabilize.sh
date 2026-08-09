@@ -1,0 +1,5 @@
+# Stabilize reverse shell
+python3 -c 'import pty; pty.spawn("/bin/bash")'
+# Ctrl+Z
+stty raw -echo; fg
+export TERM=xterm
