@@ -154,11 +154,9 @@ And voila, there you have it!
 
 ## Flags
 
-**User:** ![REDACTED](https://img.shields.io/badge/flag-REDACTED-000000)
+**User:** THM{n0_v1s1bl3_3dg3}
 
-**Root:** ![REDACTED](https://img.shields.io/badge/flag-REDACTED-000000)
-
-The correct flags will be posted after the event has concluded, to avoid spoilers.
+**Root:** THM{tr4c3d_t0_th3_h0r1z0n}
 
 ## Dead ends (things that did not work)
 
