@@ -136,7 +136,11 @@ node /tmp/cdp.js "debugfs -R 'cat /root/root.txt' /dev/nvme0n1p1 2>&1"
 And voilà, there you have it!
 
 ## Flag
-![redacted](https://img.shields.io/badge/-REDACTED-000000) - to avoid spoilers, correct flag will be posted after the event is concluded.
+user flag:
+THM{w4rm_s3ss10n_h1j4ck3d}
+
+root flag:
+THM{r4w_d1sk_4cc3ss_w4s_t00_much}
 
 ## Lessons Learned
 A few things stood out here. First, always sanitise input before it reaches a database query - `$ne` and other MongoDB operators being accepted straight from a JSON body is a classic and dangerous mistake. Second, letting users submit their own template strings (EJS or otherwise) is effectively giving them code execution unless it's heavily sandboxed - and even then, `global.process` can be a way around a naive sandbox. Third, and biggest: never leave a Node.js `--inspect` debugging port open on a production box, even bound to localhost - if an attacker gets any foothold on the machine, that port hands them full code execution as whatever user started it. And finally, group membership matters as much as user accounts - being in the `disk` group is functionally close to being root, since it bypasses file permissions entirely.
