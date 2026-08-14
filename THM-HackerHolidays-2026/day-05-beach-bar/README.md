@@ -97,10 +97,10 @@ typed in the password, and got a root shell. The second flag was sitting at `/ro
 And voilà, there you have it!
 
 ## Flag
-user flag
+user flag:
 THM{y4ml_pl4yl1st_pwns_th3_b34ch}
 
-root flag
+root flag:
 THM{cr3d3nt14l_r3us3_4t_th3_b34ch_b4r}
 
 ## Lessons Learned
