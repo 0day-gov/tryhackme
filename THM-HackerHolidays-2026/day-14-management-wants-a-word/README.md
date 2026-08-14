@@ -68,15 +68,11 @@ Inside the container was a FAT32 filesystem. With no way to mount it, I parsed t
 
 Rendering the extracted PDF showed a totally normal-looking invoice from Byte Lotus Resorts - except line item #1 read:
 
-**Flag:** `REDACTED`
-
-And voila, there you have it!
+**Flag:** THM{1t_w4s_V3r4_A11_Al0ng?!}
 
 ## Flag
 
-`REDACTED`
-
-The correct flag will be posted once the event concludes, to avoid spoilers.
+THM{1t_w4s_V3r4_A11_Al0ng?!}
 
 ## Lessons Learned
 
