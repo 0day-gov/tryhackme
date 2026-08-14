@@ -72,7 +72,7 @@ And voilà, there you have it!
 
 ## Flag
 
-![redacted](https://img.shields.io/badge/-REDACTED-000000)
+THM{t0w3l_0n_th3_sunb3d_d0ubl3_sp3nt}
 
 To avoid spoilers, the correct flag will be posted after the event is concluded.
 
