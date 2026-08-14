@@ -57,6 +57,8 @@ day-12-after-hours/
 day-13-the-guestbook/
   ├── README.md
   └── payloads.txt
+  day-14-management-wants-a-word
+  ├──README.md
 ```
 
 ## 📊 Progress
@@ -77,7 +79,7 @@ day-13-the-guestbook/
 | 11 | Infinity Pool | Boot2root | ✅ |
 | 12 | After Hours | Forensics | ✅ |
 | 13 | The Guestbook | AI / Web | ✅ |
-| 14 | Management Wants a Word | — | ⬜ |
+| 14 | Management Wants a Word | — | ✅ |
 
 ## 🛠️ Languages & Tools Used
 
