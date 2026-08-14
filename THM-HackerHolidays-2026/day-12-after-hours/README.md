@@ -114,9 +114,7 @@ And voila, there you have it!
 
 ## Flag
 
-![REDACTED](https://img.shields.io/badge/flag-REDACTED-black)
-
-The correct flag will be posted after the event concludes, to avoid spoilers.
+THM{P4tch_op3ned_th3_BacKd00r}
 
 ## Lessons Learned
 
