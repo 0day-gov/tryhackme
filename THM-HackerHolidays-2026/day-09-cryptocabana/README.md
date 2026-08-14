@@ -108,10 +108,7 @@ And voila, there you have it!
 
 ## Flag
 
-![redacted](https://img.shields.io/badge/flag-REDACTED-black)
-
-*The correct flag will be posted once the event has concluded, to avoid spoilers.*
-
+THM{n0t_ur_k3ys_n0t_ur_c01ns!}
 ## Lessons Learned
 
 - A SAS token's scope (`srt`, `sp`) matters just as much as its expiry date - a token meant for one narrow write action can quietly grant read/list access to an entire storage account if it's over-scoped.
