@@ -74,8 +74,6 @@ And voilà, there you have it!
 
 THM{t0w3l_0n_th3_sunb3d_d0ubl3_sp3nt}
 
-To avoid spoilers, the correct flag will be posted after the event is concluded.
-
 ## Lessons Learned
 
 - Race conditions live in the gap between a "check" and a "write" - if those two steps aren't atomic (e.g. not wrapped in a single database transaction or lock), sending enough concurrent requests can slip through the gap.
