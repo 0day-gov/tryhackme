@@ -81,8 +81,7 @@ And voilà, there you have it!
 
 ## Flag
 
-![redacted](https://img.shields.io/badge/flag-REDACTED-black) - *The correct flag will be posted after the event is concluded, to avoid spoilers.*
-
+THM{c4r0l_t00k_th3_f4ll}
 ## Lessons Learned
 
 - **The tools are the attack surface, not the chat.** All the time spent rephrasing polite requests was wasted. The moment that mattered was reading `/vera/activity` and realizing VERA exposes real tools (`lookup:`, `override:`) whose results are visible in the raw JSON. Go for the machinery, not the personality.
