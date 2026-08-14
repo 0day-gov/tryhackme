@@ -43,7 +43,7 @@ These three strings are Base64-encoded. Decoding each part and joining them toge
 And voilà, there you have it!
 
 ## Flag 
-![redacted](https://img.shields.io/badge/-REDACTED-000000) - to avoid spoilers, correct flag will be posted after the event is concluded.
+THM{V3r@s_aCC0unt_h4s_b33n_f0und!}.
 
 
 ## Lessons Learned
