@@ -135,7 +135,7 @@ And voilà, there you have it!
 - CyberChef
 
 ## Flag
-![redacted](https://img.shields.io/badge/-REDACTED-000000) - to avoid spoilers, correct flag will be posted after the event is concluded.
+THM{V3r4_1s_w4tch1ng_0veR_y0u}
 
 ## Lessons Learned
 Malicious traffic doesn't have to look scary - it can just be a normal-looking `Cookie` header on a normal-looking GET request. The stuff that gave it away was the pattern, not the content: same host, same port, firing off every second like clockwork.
