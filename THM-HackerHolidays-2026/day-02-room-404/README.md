@@ -49,7 +49,7 @@ This pulled the flag straight out of an old commit that had since been "cleaned 
 And voilà, there you have it!
 
 ## Flag
-![redacted](https://img.shields.io/badge/-REDACTED-000000) - to avoid spoilers, correct flag will be posted after the event is concluded.
+THM{byt3_l0tus_n3v3r_f0rg3ts}
 
 ## Lessons Learned
 Key takeaway: deploying a project folder as-is (instead of just the built/exported app) can silently ship the entire `.git` directory to production, and with it, the *complete* history of the codebase - not just its current state. A developer removing a secret in a later commit gives a false sense of security; the secret is still sitting in the object database unless history is deliberately rewritten.
