@@ -76,7 +76,7 @@ The `scan()` call returned every guest record in the table, including profiles t
 And voilà, there you have it!
 
 ## Flag
-![redacted](https://img.shields.io/badge/-REDACTED-000000) <!-- TODO: paste the actual flag once ready to publish -->
+THM{fr33_app_fr33_d4t4!} <!-- TODO: paste the actual flag once ready to publish -->
 
 ## Lessons Learned
 General takeaway for similar challenges: whenever a web app hands out AWS credentials (or any API tokens) to the browser to talk directly to a backend service, check what the *token itself* is actually authorized to do - not just what the app's UI/JS chooses to request. The gap between "what the frontend asks for" and "what the credentials allow" is exactly where these vulnerabilities live.
