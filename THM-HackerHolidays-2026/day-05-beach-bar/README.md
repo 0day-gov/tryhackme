@@ -97,7 +97,10 @@ typed in the password, and got a root shell. The second flag was sitting at `/ro
 And voilà, there you have it!
 
 ## Flag
-![redacted](https://img.shields.io/badge/-REDACTED-000000) - to avoid spoilers, correct flag will be posted after the event is concluded.
+user flag
+THM{y4ml_pl4yl1st_pwns_th3_b34ch}
+root flag
+THM{cr3d3nt14l_r3us3_4t_th3_b34ch_b4r}
 
 ## Lessons Learned
 Two lessons here. First, always check the page source - leftover comments and demo passwords are a real, common way in. Second, if a password is typed as part of a command, anyone on the machine can see it just by running `ps aux` - so passwords should never be passed that way, they belong in a config file or environment variable instead.
