@@ -33,7 +33,7 @@ Opening the Gravatar profile URL turned up a string of letters and numbers sitti
 And voilà, there you have it!
 
 ## Flag
-![redacted](https://img.shields.io/badge/-REDACTED-000000) - to avoid spoilers, correct flag will be posted after the event is concluded.
+THM{S3creT_Pr0fil3_H4s_b33n_Ident1fi3d}
 
 ## Tools Used
 - Google
